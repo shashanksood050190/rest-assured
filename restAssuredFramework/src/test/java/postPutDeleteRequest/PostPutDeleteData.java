@@ -1,4 +1,4 @@
-package postDeletePutRequest;
+package postPutDeleteRequest;
 
 import org.json.simple.JSONObject;
 
